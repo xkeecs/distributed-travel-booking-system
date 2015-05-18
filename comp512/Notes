@@ -1,0 +1,8 @@
+**1. port shall be customer defined (both client and server)
+2. number of clients?
+3. currently, only 1 port for a server is used.
+**4. RMsecurity manager is disabled
+** RUN IT DISTRIBUTEDLY
+
+** tcp one
+

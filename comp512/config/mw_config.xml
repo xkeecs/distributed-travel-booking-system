@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration SYSTEM "mw.dtd">
+<configuration>
+	<resource>
+		<name>flight</name>
+		<ip>127.0.0.1</ip>
+		<port>5101</port>
+	</resource>
+	<resource>
+		<name>car</name>
+		<ip>127.0.0.1</ip>
+		<port>5102</port>
+	</resource>
+	<resource>
+		<name>room</name>
+		<ip>127.0.0.1</ip>
+		<port>5103</port>
+	</resource>
+	<resource>
+		<name>customer</name>
+		<ip>127.0.0.1</ip>
+		<port>5105</port>
+	</resource>
+	<resource>
+		<name>middleware</name>
+		<ip>127.0.0.1</ip>
+		<port>5104</port>
+	</resource>
+	
+</configuration>

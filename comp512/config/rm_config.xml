@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration SYSTEM "mw.dtd">
+<configuration>
+	<resource>
+		<name>data</name>
+		<ip>127.0.0.1</ip>
+		<port>5005</port>
+	</resource>
+</configuration>
